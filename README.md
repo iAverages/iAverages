@@ -7,7 +7,7 @@ My name is Daniel and I'm from the UK, currently studying business at college. I
 - [Email](mailto:dan@danielraybone.com) - One of my personal email addresses
 - [Telegram](https://t.me/iAverage) - You can contact me here if you wish, although I'll likely respond quicker via Discord
 ## Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=iAverages&show_icons=true&theme=midnight-purple&bg_color=0d1117&hide_border=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=iAverages&show_icons=true&theme=midnight-purple&bg_color=0d1117&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iAverages&theme=midnight-purple&bg_color=0d1117&hide_border=true&show_icons=true)
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=iAverage&theme=midnight-purple&bg_color=0d1117&hide_border=true)
 
