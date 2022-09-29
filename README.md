@@ -1,20 +1,19 @@
-## About me
+## Hello 👋
 
 My name is Daniel Raybone, a self taught software developer from the UK, currently studying T-Level Digital Production, Design & Development. 
 
 ## Links and socials
 
-- [Website](http://danielraybone.com/) - This is currently being reworked. View the progress [here](https://wip.danielraybone.com)
-- Discord - dan.#0402 - You can contact me here
-- [Email](mailto:me@danielraybone.com) - and also here
+- [Website](http://danielraybone.com/)
+- [Email](mailto:me@danielraybone.com)
+- Discord - dan.#0402
 
 ## Projects
 
-<!-- Progress that I've yet to make public. These will be made public once I have progessed further into the development.
 - [Yin](https://github.com/iAverages/Yin) - A Micro Services Discord Bot built with Typescript, MongoDB and Redis.
-- [Izanami](https://github.com/iAverages/Izanami) - Game management control panel built with React, Typescript and MongoDB.
--->
-- [ImageUploadAPI](https://github.com/iAverages/ImageUploadAPI) - Simple image upload api used for ShareX
+- [Kurumi](https://github.com/iAverages/Kurumi) - Simple note taking web app
+- [Spirit](https://github.com/iAverages/Spirit) - Minecraft Event logger
+- [ImageUploadAPI](https://github.com/iAverages/ImageUploadAPI) - Simple image upload api
 - [SkinsAPI](https://github.com/iAverages/SkinsAPI) - A simple and fast Minecraft avatar API built with JS, ExpressJs and MongoDB.
 
 ## Stats
