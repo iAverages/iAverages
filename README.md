@@ -13,7 +13,7 @@ My name is Daniel Raybone, a self taught software developer from the UK, current
 - [Yin](https://github.com/iAverages/Yin) - A Micro Services Discord Bot built with Typescript, MongoDB and Redis.
 - [Kurumi](https://github.com/iAverages/Kurumi) - Simple note taking web app
 - [Spirit](https://github.com/iAverages/Spirit) - Minecraft Event logger
-- [ImageUploadAPI](https://github.com/iAverages/ImageUploadAPI) - Simple image upload api
+- [avrg.dev](https://github.com/iAverages/avrg.dev) - Cloudflare Worker with proxy for b2 bucket & url shortener
 - [SkinsAPI](https://github.com/iAverages/SkinsAPI) - A simple and fast Minecraft avatar API built with JS, ExpressJs and MongoDB.
 
 ## Stats
