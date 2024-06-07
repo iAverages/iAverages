@@ -24,4 +24,4 @@ My name is Daniel Raybone, a self taught software developer from the UK, current
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=iAverage&theme=midnight-purple&bg_color=0d1117&hide_border=true)
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('[https://github.com/cloud11665/cloud11665/assets/59028866/3b916a93-1632-49cd-bf65-14e666cd81c8](https://avrg.dev/sIa2C.png)');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background: url('[https://github.com/tglide/tglide/blob/master/guts.jpg?raw=true](https://avrg.dev/sIa2C.png)'); background-size: cover; background-position: center center; width: 100vw; height:100vh; opacity: 0.5;]{x0000}$}
