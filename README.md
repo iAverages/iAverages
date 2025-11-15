@@ -7,6 +7,7 @@ i'm dan, a software developer who writes a lot of typescript. currently explorin
 - [mirai](https://github.com/iAverages/mirai) - lightweight cross-platform wallpaper manager
 - [sei](https://github.com/iAverages/sei) - anime ptw list
 - [dotfiles](https://github.com/iAverages/dotfiles) - dotfiles and nixos configuration
+- [homelab](https://github.com/iAverages/homelab) - [nixos](https://nixos.org/) configuration for my homelab ~~and soon personal devices~~
 
 <a href="#">
   <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iAverages&theme=midnight-purple&bg_color=0d1117&hide_border=true&show_icons=true" />
