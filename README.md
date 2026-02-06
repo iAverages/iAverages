@@ -10,8 +10,5 @@ i'm dan, a software developer who writes a lot of typescript. currently explorin
 - [homelab](https://github.com/iAverages/homelab) - [nixos](https://nixos.org/) configuration for my homelab ~~and soon personal devices~~
 
 <a href="#">
-  <img height=400 align="center" src="https://github-readme-stats.kirsi.dev/api/top-langs/?username=iAverages&theme=midnight-purple&bg_color=0d1117&hide_border=true&show_icons=true" />
-</a>
-<a href="#">
   <img height=400 align="center" src="https://github-readme-stats.kirsi.dev/api/wakatime?username=iAverage&theme=midnight-purple&bg_color=0d1117&hide_border=true&langs_count=10" />
 </a>
